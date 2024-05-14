@@ -1,3 +1,7 @@
+embeded Report
+https://app.powerbi.com/view?r=eyJrIjoiNzg3NWVkZjMtYjMzYy00MTY5LWI5ZTMtYTU3Yzg0ZWQ0OWNlIiwidCI6Ijk2MjNiYTEwLWVmOWItNDY2Ni04YmMwLWM2NWUwNzNlYmNlOSJ9
+
+
 **Adidas Sales Report - 2024**
 
 **Overview:**
